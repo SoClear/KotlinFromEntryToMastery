@@ -1,4 +1,4 @@
-package p1_introductory.p4_dataTypes
+package p1_introductory.p4_dataTypes.p7_typeConversionAndTypeJudgment
 
 fun main() {
     /**

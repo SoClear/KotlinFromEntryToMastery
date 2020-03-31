@@ -1,4 +1,4 @@
-package p1_introductory.p4_dataTypes
+package p1_introductory.p4_dataTypes.p5_nullableTypes
 
 fun main() {
     var nullableString:String?="可以为空"

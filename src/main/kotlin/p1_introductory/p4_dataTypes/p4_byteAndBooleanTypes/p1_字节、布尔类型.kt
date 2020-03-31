@@ -1,4 +1,4 @@
-package p1_introductory.p4_dataTypes
+package p1_introductory.p4_dataTypes.p4_byteAndBooleanTypes
 
 fun main() {
     //字节类型

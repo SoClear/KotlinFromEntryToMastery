@@ -1,4 +1,4 @@
-package p1_introductory.p4_dataTypes
+package p1_introductory.p4_dataTypes.p6_builtInStructureType
 
 //1.Any类型，所有类的父类
 //2.Unit类型，什么都不返回，主要作为方法的返回值

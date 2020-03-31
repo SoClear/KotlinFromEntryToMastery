@@ -1,4 +1,4 @@
-package p2_intermediate.p2_classAndObject
+package p2_intermediate.p2_classAndObject.p4_theConceptAndUseOfClass
 
 /*
 1了解类————同一种概念的的抽象。

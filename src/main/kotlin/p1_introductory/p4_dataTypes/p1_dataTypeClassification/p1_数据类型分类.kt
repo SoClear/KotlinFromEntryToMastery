@@ -1,4 +1,4 @@
-package p1_introductory.p4_dataTypes
+package p1_introductory.p4_dataTypes.p1_dataTypeClassification
 
 /*
 kotlin中的数据类型分为以下两种：

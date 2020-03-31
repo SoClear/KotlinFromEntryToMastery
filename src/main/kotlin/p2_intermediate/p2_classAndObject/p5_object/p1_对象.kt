@@ -1,4 +1,4 @@
-package p2_intermediate.p2_classAndObject
+package p2_intermediate.p2_classAndObject.p5_object
 
 /*
 1.了解对象————类的具体实现
@@ -20,8 +20,8 @@ class Human{
 
 fun main() {
     //创建对象
-    val you=Human()
-    val me=Human()
+    val you= Human()
+    val me= Human()
 
     /*
     you和me两个对象都来自于Human这个类，所以，“you”和“me”自然也拥有了Human类中定义的age属性和growUp()方法。

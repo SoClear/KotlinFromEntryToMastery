@@ -1,4 +1,4 @@
-package p2_intermediate.p2_classAndObject
+package p2_intermediate.p2_classAndObject.p2_returnValueOfFunction
 
 //1.在函数中返回值
 fun add(x:Int,y:Int):Int{
@@ -29,10 +29,11 @@ fun getThreeScores():Triple<Int,Int,Int>{
 
 
 fun main() {
-    val addResult= add(2,3)
+    val addResult= add(2, 3)
     println(addResult)
     val mathChinese= getTwoScores()
-    val mathChineseEnglish= getThreeScores()
+    val mathChineseEnglish=
+        getThreeScores()
     println("数学成绩是${mathChinese.first},语文成绩是${mathChinese.second}")
     println("数学成绩是${mathChineseEnglish.first},语文成绩是${mathChineseEnglish.second},英语成绩是${mathChineseEnglish.third}")
 }

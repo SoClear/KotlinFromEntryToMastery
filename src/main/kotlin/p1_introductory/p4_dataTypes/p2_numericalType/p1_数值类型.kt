@@ -1,4 +1,4 @@
-package p1_introductory.p4_dataTypes
+package p1_introductory.p4_dataTypes.p2_numericalType
 
 /**
  * 数值类型分为整型，浮点型

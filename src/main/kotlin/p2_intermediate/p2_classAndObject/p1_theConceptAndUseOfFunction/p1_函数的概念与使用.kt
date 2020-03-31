@@ -1,4 +1,4 @@
-package p2_intermediate.p2_classAndObject
+package p2_intermediate.p2_classAndObject.p1_theConceptAndUseOfFunction
 
 /*
 语法：
